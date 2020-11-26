@@ -1,0 +1,22 @@
+#' @importFrom tibble tibble
+NULL
+
+#' Long-Term Price Trends for Computers, TVs, and Related Items
+#'
+#' These data are a monthly time-series of changes in the consumer price index
+#'  relative to a Dec. 1997 starting date for televisions, computers, and related
+#'  items. I use this as in-class illustration that globalization has made
+#'  consumer electronics cheaper across the board for Americans.
+#'
+#' @format A data frame with 1,704 observations on the following 3 variables.
+#' \describe{
+#' \item{\code{date}}{a date}
+#' \item{\code{category}}{the particular category (e.g. all items, televisions, etc.)}
+#' \item{\code{value}}{the consumer price index (Dec. 1997 = 100)}
+#' }
+#'
+#' @details This is a web-scraping job from the U.S. Bureau of Labor Statistics. Post is titled "Long-term price trends for computers, TVs, and related items" and was published on Oct. 13, 2015.
+#'
+#' @source U.S. Bureau of Labor Statistics.
+#'
+"LTPT"
