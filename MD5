@@ -1,4 +1,4 @@
-4fe95e985f66a36dcaf45a29ecd0211e *DESCRIPTION
+6402a292431d6b3e257f25cc45b362b8 *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 d5596f5d2df740a08e66639a0c730d8f *R/rd-Arca.R
 b42866cc7d6316b26dc8b0a58cd0fab3 *R/rd-CFT15.R
@@ -30,7 +30,7 @@ d9bb9f83a08862c4a9a34ed866d181f3 *R/rd-co2emissions.R
 c6e381caa376fd4cd94a20320cad2b26 *R/rd-coffee_imports.R
 c6e8e97a2795406a2da52f8a6d63ef9e *R/rd-coffee_price.R
 eb9f4fabb87395e91e49fa27474b129c *R/rd-eight_schools.R
-9c3b2501cd2b7c9e641ae72d93284109 *R/rd-election_turnout.R
+57601499aad6119d12f29dd35bf68668 *R/rd-election_turnout.R
 15906404dc293dc0064466f9d17e90dd *R/rd-eq_passengercars.R
 c50d780ee3b22fbd9ed0ea4ce1dd000e *R/rd-eustates.R
 764135dca85f4999b0e07753b6e483d1 *R/rd-fakeAPI.R
@@ -42,7 +42,7 @@ ffa27ae5218639ddccc526f8fd6f65a7 *R/rd-gss_abortion.R
 b7a00370160b4ee274b09b97cf1a90e7 *R/rd-gss_spending.R
 45560f55181a5cabd2cf4c56346d6772 *R/rd-gss_wages.R
 eed8c0fdbd0d734681412d7a2805bf1b *R/rd-illiteracy30.R
-d1de485b15ceec6d5b2a8e9e0cd52530 *R/rd-min_wage.R
+e7333b2ffa7b238bc564429d08efcb82 *R/rd-min_wage.R
 581e1544faadc21674d631c03edfefaa *R/rd-mm_mlda.R
 8fe9fa11dfae262e894b1da62de9be61 *R/rd-mm_nhis.R
 62e0b2d7a0b71c992e6e10e31e02e419 *R/rd-mm_randhie.R
@@ -100,7 +100,7 @@ e8653f41b455315324bf11be989cde5e *data/arg_tariff.rda
 7df3059464ee2d1c3d3e9c8853378252 *data/coffee_imports.rda
 be5760cdea05b60d557fbbedf4446dc4 *data/coffee_price.rda
 261bb15e56dd7f2e8c6f41b964f76b0d *data/eight_schools.rda
-c239be42442725c0224bd4aa88063f1f *data/election_turnout.rda
+cf6bd9276b87dcdfc55d20eceaadc4ba *data/election_turnout.rda
 5226ee5c30119cf9e0a96fda96f5122f *data/eq_passengercars.rda
 cb15c0cf448de90ca1fdd713143c70e4 *data/eustates.rda
 96cec65c09527dcdb784c92e00469d00 *data/fakeAPI.rda
@@ -140,7 +140,7 @@ c5f7738b25988e719b3bb2c5e1a60fca *data/wvs_usa_abortion.rda
 dae6008115ffa7fc350ab25dad9371af *data/yugo_sales.rda
 ade9512e4e51c4f38dbf9b56cdb82b6b *inst/doc/stevedata-description.R
 dd7da6b686a89a8a5d89751eab0423dc *inst/doc/stevedata-description.Rmd
-d2c5cda774ccc9756afa0781c7313025 *inst/doc/stevedata-description.html
+54bccdf35ff9b8ea5ee8816e12dda522 *inst/doc/stevedata-description.html
 6ff4729fd58c3f420f4e3a2d8b1f8fe3 *man/Arca.Rd
 7662eb6b45296bd590e587c659a690c9 *man/CFT15.Rd
 430540a14152c234f25b1bf5473527f7 *man/CP77.Rd
@@ -171,7 +171,7 @@ cc1cbcc72acb72524df238b44652a186 *man/co2emissions.Rd
 f724c1b95cfc285ccca38099ef306c62 *man/coffee_imports.Rd
 3096182705398eb68cffd18978c9bc3b *man/coffee_price.Rd
 6878e85de9a0fe6db15d8bd1ebba3c0d *man/eight_schools.Rd
-89382325dc4ded13d3d5bedcf0fa1716 *man/election_turnout.Rd
+19dc7ac8df01f768bd69e1d4d5d125da *man/election_turnout.Rd
 0f68c3d7d94c48812053b862a4570284 *man/eq_passengercars.Rd
 8617d0106a31a230399f08f5a4f58c7b *man/eustates.Rd
 7fb37d77a83967ec1ac3796fa6d9c4f9 *man/fakeAPI.Rd
@@ -183,7 +183,7 @@ dd3a65b0ec28bf27836cddfb605adec0 *man/gss_abortion.Rd
 13691105990525ff3b5d29ca04d28f8e *man/gss_spending.Rd
 0264192f089b3dfdcb5a8bbaa45986c0 *man/gss_wages.Rd
 c90f3d7f951a9cc6d3d2f56502021f60 *man/illiteracy30.Rd
-dc5b83581c0783f8c03ced663ac55d93 *man/min_wage.Rd
+25cdeb87aaa4b21c7e8de59cd70936cb *man/min_wage.Rd
 791698d946acd1c023559bd0327116f5 *man/mm_mlda.Rd
 d7a94949db38dda4f826bc7cadfa4aa1 *man/mm_nhis.Rd
 9895c9470f4a8fcb7b50c0445c5c0351 *man/mm_randhie.Rd
