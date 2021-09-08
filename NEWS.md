@@ -1,3 +1,20 @@
+stevedata 0.5.0
+---------------------------------------------------------------------
+
+The newest release will have some new and updated data sets.  Additions include:
+
+- `wvs_usa_educat`: a data set on how World Values Survey codes education categories for the United States across waves of its data set.
+- `wvs_usa_regions`: a data set on how World Values Survey codes region categories for the United States across waves of its data set.
+
+Updates include:
+
+- new turnip prices in `turnips`.
+- "zap" formats in `af_crime93`.
+- new sulfur dioxide emission data in `so2concentrations`
+- new sugar price data in `sugar_price`.
+- new Clemson temperature data in `clemson_temps`.
+- new coffee data in `coffee_imports` and `coffee_price`.
+
 stevedata 0.4.0
 ---------------------------------------------------------------------
 
