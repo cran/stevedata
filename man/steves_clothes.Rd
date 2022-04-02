@@ -3,9 +3,9 @@
 \docType{data}
 \name{steves_clothes}
 \alias{steves_clothes}
-\title{Steve's (Professional) Clothes, as of March 3, 2019}
+\title{Steve's (Professional) Clothes, as of March 20, 2022}
 \format{
-A data frame with 79 observations on the following 4 variables.
+A data frame with 86 observations on the following 4 variables.
 \describe{
 \item{\code{type}}{Type of clothing}
 \item{\code{brand}}{The brand of clothing (e.g. Apt. 9, Saddlebred)}
@@ -26,7 +26,10 @@ I cobbled together this data set of the professional clothes
 }
 \details{
 If you must know, I do most of my clothes shopping at major retailers
-in the U.S. (mostly Belk, J.C. Penney, and Kohl's). If that's you as well, the
-odds are good the distribution of my clothes will closely resemble yours.)
+in the U.S. Thi is mostly Belk, J.C. Penney, and Kohl's. If that's you as well, the
+odds are good the distribution of my clothes will closely resemble yours. A recent
+move I made resulted in me donating a fair bit of my short-sleeved polo shirts. I did
+not buy any new shirts, though. Thus, I copied that information from a previous version
+of the data.
 }
 \keyword{datasets}
