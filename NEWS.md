@@ -1,9 +1,24 @@
+# stevedata 0.9.0
+
+The newest release will have some new and updated data sets. Additions include:
+
+- `commodity_prices`: a data set on World Bank commodity prices data, which will also supplant the `coffee_price` and `sugar_price` data.
+- `ESS10NO`: a data set on whether Norwegians would vote to join the European Union or not, cobbled from the European Social Survey, and useful for illustrating survey designs.
+- `PPGE`: a panel model on select rich countries that can be used for quasi-replicating Garrett's (1998) argument about how well labor unions have stemmed globalization's effect on slashing government spending.
+
+Updates include:
+
+- `ukg_eeri` has more current data, and the value column has been changed to numeric.
+- `pwt_sample` now has Norway. Sorry for the original oversight, Norway. We still cool?
+- `turnips` has new turnips prices. I don't know why I keep doing this. Force of habit.
+
+
 # stevedata 0.8.0
 
 The newest release will have some new and updated data sets. Additions include:
 
 - `fakeHappiness`: a (fake) data set to illustrate a curvilinear effect. Application: the so-called U-shaped relationship between age and happiness.
-- `inglehart03`: a data set cobbled from Inglehart's (2003) "How Solid is Mass Support for Democracy---And How Can We Measure It?" in *PS: Politial Science & Politics*. These would include the information as presented in the article itself as opposed to the underlying (raw) data as one might get them in an earlier version of the World/European Survey.
+- `inglehart03`: a data set cobbled from Inglehart's (2003) "How Solid is Mass Support for Democracy---And How Can We Measure It?" in *PS: Political Science & Politics*. These would include the information as presented in the article itself as opposed to the underlying (raw) data as one might get them in an earlier version of the World/European Survey.
 - `sweden_counties`: a data set on identifiers for the counties of Sweden.
 
 
@@ -32,7 +47,7 @@ Updates include:
 
 The newest release will have some new and updated data sets. Additions include:
 
-- `voteincome`: a data set on turnout and demographic data, admittedly stolen from [the Zelig project](https://zeligproject.org/).
+- `voteincome`: a data set on turnout and demographic data, admittedly stolen from the Zelig project.
 
 Updates include:
 
