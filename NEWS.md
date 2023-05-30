@@ -1,3 +1,21 @@
+# stevedata 1.0.0
+
+Additions include:
+
+- `PRDEG`: a replication data set on property rights, democracy, and economic growth.
+- `OODTPT`: a replication data set on democracy and trade policy.
+- `wbd_example`: a simple panel data set of some World Bank indicators, useful for explaining merge issues in panel data.
+- `eurostat_codes`: a simple data set on Eurostat country codes and country groupings.
+
+Updates include:
+
+- `ODGI` runs through 2022.
+- `turnips` has new turnip prices. Also includes a "bug" fix for me lazily forgetting it's 2023 now. `turnips` now also retired as an ongoing data collection project.
+- `coffee_imports` is now a panel, based on the same underlying data. It has both member and non-member data, though that much may involve some light cleaning/recoding.
+- `thatcher_approval` no longer has a year column, though you could easily get that from the `date` column.
+- `LOTI` is updated through 2022.
+- Assorted documentation clarifications/fixes.
+
 # stevedata 0.9.0
 
 The newest release will have some new and updated data sets. Additions include:
