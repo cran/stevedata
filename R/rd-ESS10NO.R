@@ -4,7 +4,7 @@ NULL
 #' Norwegian Attitudes toward European Integration (2021-2022)
 #'
 #' This is a simple data set to illustrate the use of sampling weights from
-#' the European Social Survey.
+#'  the European Social Survey.
 #'
 #' @format A data frame with 1,411 observations on the following 24 variables.
 #' \describe{
@@ -31,7 +31,7 @@ NULL
 #' \item{\code{uempla}}{a numeric vector for whether the respondent is currently unemployed but seeking work}
 #' \item{\code{polint}}{a dummy variable indicating political interest. 1 = very or quite interested. 0 = hardly or not at all interested.}
 #' \item{\code{hinctnta}}{a numeric vector for household income in deciles}
-#' \item{\code{lrscale}}{a numeric vector for the ideology of the respondent on an 11-point [0:10] scale}
+#' \item{\code{lrscale}}{a numeric vector for the ideology of the respondent on an 11-point scale, from 0 to 10}
 #' }
 #'
 #' @details You'll want to convert the \code{eu_vote} variable into something usable.
