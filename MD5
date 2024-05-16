@@ -1,6 +1,6 @@
-256330f071c4c5fe86869256a51d71e9 *DESCRIPTION
+677c708ced4c32fee2e6308b13d9149d *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-99019efcb6ae904be511c497333259cb *NEWS.md
+db87df522f802559444bd84aba60c6f7 *NEWS.md
 d5596f5d2df740a08e66639a0c730d8f *R/rd-Arca.R
 b42866cc7d6316b26dc8b0a58cd0fab3 *R/rd-CFT15.R
 651c2f91a17b9b98e35b7edec837472f *R/rd-CP77.R
@@ -29,6 +29,7 @@ e857f30c374b1d35edf27e14f04ec8fe *R/rd-Presidents.R
 c06902a6bd572dcf1eff4e45bf664002 *R/rd-SBCD.R
 8510876f3c2a496041e2f297a803ee6b *R/rd-SCP16.R
 17968e5140bb2be1875f51bb41ac4588 *R/rd-TV16.R
+c71da8a554c04e06be1ed293a1476d38 *R/rd-USFAHR.R
 84b3795c1723a2916c17560563c2d27f *R/rd-af_crime93.R
 b1481fe629012b832ecd7d3be9cf3212 *R/rd-african_coups.R
 173853cc032f92fdb117c7df6ba4a040 *R/rd-aluminum_premiums.R
@@ -71,7 +72,7 @@ abbb08e039045216df021fac9d7d93e1 *R/rd-recessions.R
 3a46c53743087cd33be262281ade95af *R/rd-scb_regions.R
 4d84c57840bceb99b202da20e433df01 *R/rd-sealevels.R
 3edea553bdcae140fb4c28ac0b24d07a *R/rd-so2concentrations.R
-2c27dee377393ed04ffbaaa15d10ce85 *R/rd-states_war.R
+8c0fd69a11332fb12b97f10e3717565a *R/rd-states_war.R
 1e44beda0ed85749eeb7c6c8ac96c2a0 *R/rd-steves_clothes.R
 cc01801e8235f67eeca084e5953d30ce *R/rd-sugar_price.R
 adddfb30f9585650ab77d06585f74d36 *R/rd-sweden_counties.R
@@ -95,7 +96,7 @@ b97293704e156560c853a426ef1a2713 *R/rd-wvs_usa_educat.R
 6e7e7f667a3ee273db0f6c8bd1daf51b *R/rd-wvs_usa_regions.R
 5922e46b83eca83d2ba21e7cf3d44264 *R/rd-yugo_sales.R
 f912d6cbc2b3789758fe822a0cfe2b82 *README.md
-f7becbf67fc4cc3354b9afa5afa13aa9 *build/partial.rdb
+ad7fb00f338fd8854c154725c70eefb1 *build/partial.rdb
 12da4c0501298d996dec8f9b7ee18e20 *data/Arca.rda
 528537b1455d4cc051e1eb4a7af7d38e *data/CFT15.rda
 fb72b49fe1bde184727d04507428d69b *data/CP77.rda
@@ -124,6 +125,7 @@ a5907e0da5dd7f068f51cb7c4b7e3553 *data/ODGI.rda
 9929ddd86475d87c4ab71b7ae918c10b *data/SBCD.rda
 2dfc52b8901dd4242ef8159cb9c46d37 *data/SCP16.rda
 c25cb1dfc316ed2dd7bb3facae23f987 *data/TV16.rda
+7d5a8818bda51a7ad4b403a953bb659d *data/USFAHR.rda
 1c36456d1f761d714a44fd7b0b42de4e *data/af_crime93.rda
 62fbd9933954ab7970fc3d933c7c19e9 *data/african_coups.rda
 4dcdf25b89c13aaeb95f4e46b065d9c7 *data/aluminum_premiums.rda
@@ -217,6 +219,7 @@ c164b102850e4f967a229444d75136db *man/Presidents.Rd
 7d310001d52a594a814bdc1075948730 *man/SBCD.Rd
 9f5bf9083880e26ccb197eb65190a2c1 *man/SCP16.Rd
 8b79d8bafe806c7445a1eb6cf1121d48 *man/TV16.Rd
+9890b80cf1b24571b14577f109b91b9d *man/USFAHR.Rd
 60432b529bb94d388d002b5c13230603 *man/af_crime93.Rd
 6e0e648ddef63b4ff6830cab3cd11c11 *man/african_coups.Rd
 c8721ccf9298e77249ad8c936138bd1a *man/aluminum_premiums.Rd
@@ -259,7 +262,7 @@ c90f3d7f951a9cc6d3d2f56502021f60 *man/illiteracy30.Rd
 2e09c8bc759fabfe41f657e33c447b48 *man/scb_regions.Rd
 7263338a2c4044d207b9943ece43912d *man/sealevels.Rd
 48f81753b665fd13d2ec2704ad3b21b6 *man/so2concentrations.Rd
-a87493025fba09940dfd4062cba1a2e2 *man/states_war.Rd
+5d28625cd74d1f054f161b1cbdc5f7a9 *man/states_war.Rd
 5bf7922f1946cdf63ba12f0d7149a035 *man/steves_clothes.Rd
 21decf5b52763549a866c034b3e1a1f1 *man/sugar_price.Rd
 8f2459e90b571e33173c3c17f343f3c0 *man/sweden_counties.Rd
