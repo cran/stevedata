@@ -1,6 +1,6 @@
-cb84c9d4c0321a06b782c3e7506f7d27 *DESCRIPTION
+deae5857df2257e1648c1a8339ee1f28 *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-81e9f8f966cbf68d799afadc32041715 *NEWS.md
+d65f92fee2cbcd8e4fae3973370c39b9 *NEWS.md
 d5596f5d2df740a08e66639a0c730d8f *R/rd-Arca.R
 b42866cc7d6316b26dc8b0a58cd0fab3 *R/rd-CFT15.R
 651c2f91a17b9b98e35b7edec837472f *R/rd-CP77.R
@@ -24,10 +24,11 @@ e6075dc455854d76094d7a5bfddb31ef *R/rd-Lipset59.R
 b96cab4bca8da3087f1d32c3191eb850 *R/rd-Newhouse77.R
 b0f9b035b729c03258f7f23fda671862 *R/rd-ODGI.R
 c48876db7b35baa17191af3830097a28 *R/rd-OODTPT.R
-7c78739368beea0bbf0dd6a0df76d2e2 *R/rd-PPGE.R
+8dc941ee45cd9c17ce230032af42be3a *R/rd-PPGE.R
 d8d3cfa20045e1941b97f44a9014e2d0 *R/rd-PRDEG.R
 3b1c4d991bf6ae02eaf2966812557819 *R/rd-Parvin73.R
 e857f30c374b1d35edf27e14f04ec8fe *R/rd-Presidents.R
+75a8cd6bf234dd4a6ebd9abbbcbae29c *R/rd-Russett64.R
 c06902a6bd572dcf1eff4e45bf664002 *R/rd-SBCD.R
 8510876f3c2a496041e2f297a803ee6b *R/rd-SCP16.R
 17968e5140bb2be1875f51bb41ac4588 *R/rd-TV16.R
@@ -42,6 +43,7 @@ e02e1915966c5627afd30b59318db34e *R/rd-arcticseaice.R
 97d8bf1ce261644ef198d089cc850f1e *R/rd-arg_tariff.R
 595d1a6b1aeaf80b5806bf194b968dc5 *R/rd-asn_stats.R
 402036aeac706d181daeb0b8225b112f *R/rd-chile88.R
+5e5f91f053f8d04f1e41ad06331f341a *R/rd-china_peace.R
 c2846f180d7388275d775dfff073b1ad *R/rd-clemson_temps.R
 481c1a290c077a9c7dc72c0a3d7249f2 *R/rd-co2emissions.R
 5cee98ab8cb8530174bd20f2ca6ab5f0 *R/rd-coffee_imports.R
@@ -60,6 +62,7 @@ c85a605bccff640ef430077ffeca95b6 *R/rd-eustates.R
 247ad5821534ca1b03ce78f8d6112dcc *R/rd-fakeLogit.R
 9e75c7c823d6daae3690f4963af4dbd8 *R/rd-fakeTSCS.R
 6841e1f8936fe85bc908e05962151b72 *R/rd-fakeTSD.R
+c4fbf4ac142b69606a54f270dfb034bc *R/rd-gas_demand.R
 5aef2c7299274a9373fa47e3b82889ec *R/rd-ghp100k.R
 ffa27ae5218639ddccc526f8fd6f65a7 *R/rd-gss_abortion.R
 b7a00370160b4ee274b09b97cf1a90e7 *R/rd-gss_spending.R
@@ -93,6 +96,7 @@ bdfb0189196faa2afee8aac3a337ecd2 *R/rd-usa_computers.R
 8b390f786957fadc3413a6eb8f1fa5c4 *R/rd-usa_states.R
 b4447dc497e5eb68eeaa0018c6f0b3fe *R/rd-usa_tradegdp.R
 7b62d9ce983c8f38713dc2945a2a8081 *R/rd-voteincome.R
+858d6e01836cab09c7c6476864c25a70 *R/rd-wb_groups.R
 44f0a0e907110b77a0608b75960a67b6 *R/rd-wbd_example.R
 72b11c8a7a9908cf450f62f445c61cd1 *R/rd-wvs_ccodes.R
 4a52917da7b50d91fd2e926858994590 *R/rd-wvs_immig.R
@@ -102,7 +106,7 @@ b97293704e156560c853a426ef1a2713 *R/rd-wvs_usa_educat.R
 6e7e7f667a3ee273db0f6c8bd1daf51b *R/rd-wvs_usa_regions.R
 5922e46b83eca83d2ba21e7cf3d44264 *R/rd-yugo_sales.R
 f912d6cbc2b3789758fe822a0cfe2b82 *README.md
-8e64b0b889f04f9fb318b605bcbb610b *build/partial.rdb
+f1e8cd5ccbb113aff3573a4095d7c04d *build/partial.rdb
 12da4c0501298d996dec8f9b7ee18e20 *data/Arca.rda
 528537b1455d4cc051e1eb4a7af7d38e *data/CFT15.rda
 fb72b49fe1bde184727d04507428d69b *data/CP77.rda
@@ -126,10 +130,11 @@ d23aae1f9c71a4cdde059735f46997b6 *data/Lipset59.rda
 22399c8ae2cb2a70a4b24ed93980fecb *data/Newhouse77.rda
 a5907e0da5dd7f068f51cb7c4b7e3553 *data/ODGI.rda
 44f56e822d5adf5db41eb7fe420449c9 *data/OODTPT.rda
-41168fb058c11acf0db8df3d8fe9f282 *data/PPGE.rda
+38be6a163f38208c8bc933e96b8e16b9 *data/PPGE.rda
 4448c1050be3e64aa31c09cc1590ffb1 *data/PRDEG.rda
 3c5c7fad262ec7ca0192cf1ebbde85ec *data/Parvin73.rda
 40351fad26247a5abdcc7aaa0262edc6 *data/Presidents.rda
+4d1d9d4920f4ff95c090821097412279 *data/Russett64.rda
 9929ddd86475d87c4ab71b7ae918c10b *data/SBCD.rda
 2dfc52b8901dd4242ef8159cb9c46d37 *data/SCP16.rda
 c25cb1dfc316ed2dd7bb3facae23f987 *data/TV16.rda
@@ -144,6 +149,7 @@ f3a2b31fc948c6ff4b78920e5a45b479 *data/anes_partytherms.rda
 2d3e5930bc8de65a858d0c128fba4f1a *data/arg_tariff.rda
 d19aca42fa0097a8e018376beafb54cb *data/asn_stats.rda
 be15b6c36a35e3259a2b9098858b5a5e *data/chile88.rda
+c411f3259475efd603f3f69accc12148 *data/china_peace.rda
 ecfe697e4935be25aeea39091ebba93f *data/clemson_temps.rda
 3e6a84acdd1c66cd667ac8e3ad353b4a *data/co2emissions.rda
 995f6ea76b8f2437616f2ccc5d0e00b7 *data/coffee_imports.rda
@@ -162,6 +168,7 @@ c812f730aac33d0837efd8e97aa62217 *data/fakeHappiness.rda
 59be492aaa8a172b34f6cb543097565f *data/fakeLogit.rda
 55108ffe6aa466d4f70520b005e670a7 *data/fakeTSCS.rda
 55b76c9a478f49c19391967073fc2717 *data/fakeTSD.rda
+1e90c58533f93da981f984b5534d58f9 *data/gas_demand.rda
 9587ae81eefff4f78d0f136ecdd9b4ff *data/ghp100k.rda
 1ba43eac71c8c280d6181e1e536cff3d *data/gss_abortion.rda
 cb262e7418e6530d5a1f33acbd124875 *data/gss_spending.rda
@@ -195,6 +202,7 @@ a205284480f9f061cfe15917384f9d3a *data/usa_migration.rda
 bcdf98016c659343c0d8b2f4e2074060 *data/usa_states.rda
 590181607a63c2722f5525c26be205bf *data/usa_tradegdp.rda
 d2ac0e5d7c638c61c45af0ca0d70856f *data/voteincome.rda
+5f45df956a0b9384afa9d25dfd73cd35 *data/wb_groups.rda
 52b961f5982fd3f64c035d0b9d46c985 *data/wbd_example.rda
 c45223465ccd798b6eef62761d85c531 *data/wvs_ccodes.rda
 d01a7e6ff2dd4dd01e5b34ce60812b8d *data/wvs_immig.rda
@@ -226,10 +234,11 @@ a5da349817c989e1ae6803a594ddea4b *man/Mitchell68.Rd
 0ce8b752f1ca22b5bf791091820f5b26 *man/Newhouse77.Rd
 c350dfde10029641f6684c7f16ea0b62 *man/ODGI.Rd
 f422fcaece416bb35d52a81242073b23 *man/OODTPT.Rd
-6b472a1b47dddf57322fb8649fb4439b *man/PPGE.Rd
+a40622e8079ef13b5cd4de5adeb3d18c *man/PPGE.Rd
 97e595997dc3b81dced830bb4bb13828 *man/PRDEG.Rd
 a717f2cfded1da725ed7e97a90c13241 *man/Parvin73.Rd
 c164b102850e4f967a229444d75136db *man/Presidents.Rd
+2a38a38bd3221d01c95c3c190c3fb871 *man/Russett64.Rd
 7d310001d52a594a814bdc1075948730 *man/SBCD.Rd
 9f5bf9083880e26ccb197eb65190a2c1 *man/SCP16.Rd
 8b79d8bafe806c7445a1eb6cf1121d48 *man/TV16.Rd
@@ -244,6 +253,7 @@ d8762ec0b25b96a53f8831b48b7c46cd *man/anes_prochoice.Rd
 d68e57f2cb193aa69c329db0cffa0bbd *man/arg_tariff.Rd
 295f03f87034ee829e71c03dd6b137b2 *man/asn_stats.Rd
 d1a04944433c982b2ed7e93a4a1800cf *man/chile88.Rd
+2ae14cd2e4f0ef34a05e57c4224694d4 *man/china_peace.Rd
 fe93c9a49dc5d32ed6821b700de0f412 *man/clemson_temps.Rd
 a3e7e17a1e76a5409be4a564a7447706 *man/co2emissions.Rd
 06640536175af10ea10b86a1898ceff3 *man/coffee_imports.Rd
@@ -262,6 +272,7 @@ a6fcc77449953ba244a941c29d5dfdf8 *man/fakeAPI.Rd
 08c78cf957e5e3fcdd96ee5e08206ce0 *man/fakeLogit.Rd
 753b7ff9b48a799a4967389a2853a9ad *man/fakeTSCS.Rd
 be589696ee476d3519ff63e15ac39459 *man/fakeTSD.Rd
+fc3e2eeb4224c01d28b950f5c48eb38f *man/gas_demand.Rd
 c09418ef9a1b7eaf842e2a075f70f68c *man/ghp100k.Rd
 e34456a59bb1ffa9d5be4d9edf1f2ff2 *man/gss_abortion.Rd
 803074b17f1e58ecf15703d2cd672e9e *man/gss_spending.Rd
@@ -295,6 +306,7 @@ bcba23cf8eaa23697840c3fab443f19f *man/usa_migration.Rd
 d1f54ad09267854adeb62745b3565374 *man/usa_states.Rd
 00abbc4087fd60788c3e3e76ca443a58 *man/usa_tradegdp.Rd
 004a4a2ba43edd7280aeecc32e2c8415 *man/voteincome.Rd
+f6c978df68d1e64f5d99a690a7f0816a *man/wb_groups.Rd
 85d3d6d675ee1c2d5fd8e7174d08a5af *man/wbd_example.Rd
 958382c4c0f85049e46962b0b53add39 *man/wvs_ccodes.Rd
 d81b750717c74aac62a85618abbef900 *man/wvs_immig.Rd
