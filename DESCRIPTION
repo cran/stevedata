@@ -3,7 +3,7 @@ Type: Package
 Title: Steve's Toy Data for Teaching About a Variety of Methodological,
         Social, and Political Topics
 Depends: R (>= 3.5.0)
-Version: 1.5.0
+Version: 1.6.0
 Authors@R: person("Steve", "Miller",
                   email = "steve@svmiller.com", 
                   role = c("aut", "cre"),
@@ -23,7 +23,8 @@ URL: http://svmiller.com/stevedata/
 BugReports: https://github.com/svmiller/stevedata/issues/
 Suggests: knitr, rmarkdown, tibble, tools, testthat
 NeedsCompilation: no
-Packaged: 2025-01-24 18:45:32 UTC; steve
-Author: Steve Miller [aut, cre] (<https://orcid.org/0000-0003-4072-6263>)
+Packaged: 2025-07-18 07:38:51 UTC; steve
+Author: Steve Miller [aut, cre] (ORCID:
+    <https://orcid.org/0000-0003-4072-6263>)
 Repository: CRAN
-Date/Publication: 2025-01-24 23:00:02 UTC
+Date/Publication: 2025-07-18 07:50:02 UTC
