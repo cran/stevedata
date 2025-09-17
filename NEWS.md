@@ -1,3 +1,18 @@
+# stevedata 1.7.0
+
+Additions include:
+
+- `mmb_war`: a data set on mutual military build-ups and war.
+- `stevesteps`: a data set on Steve's steps in a day. Hey, that's me!
+- `Weede84`: a data set for replicating Table 3 in Weede (1984).
+
+Updates include:
+
+- `GHR04` has a change in the `pubhlthexppgdp` variable.
+- Assorted documentation updates for clarity.
+- File compression for space considerations.
+
+
 # stevedata 1.6.0
 
 Additions include:
