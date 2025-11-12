@@ -1,7 +1,7 @@
-45930511ebf4a8764b8f089978d1003c *DESCRIPTION
+bbc31949beffba54f1fa4c89e355327f *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-f8e1b730593af6501b385c7ff553105c *NEWS.md
-688f85693cd7c2b670fe2aa7a7255dc7 *R/rd-AJR5.R
+5da9c722ae9596fefa7b743a2133c749 *NEWS.md
+11f599c274399dbd6d4e321313ec2dc6 *R/rd-AJR5.R
 d5596f5d2df740a08e66639a0c730d8f *R/rd-Arca.R
 b42866cc7d6316b26dc8b0a58cd0fab3 *R/rd-CFT15.R
 651c2f91a17b9b98e35b7edec837472f *R/rd-CP77.R
@@ -48,13 +48,13 @@ e02e1915966c5627afd30b59318db34e *R/rd-arcticseaice.R
 5e5f91f053f8d04f1e41ad06331f341a *R/rd-china_peace.R
 c2846f180d7388275d775dfff073b1ad *R/rd-clemson_temps.R
 481c1a290c077a9c7dc72c0a3d7249f2 *R/rd-co2emissions.R
-5cee98ab8cb8530174bd20f2ca6ab5f0 *R/rd-coffee_imports.R
+531940b4ff5a54e34ee2a03aa1fdf5f8 *R/rd-coffee_imports.R
 e99759b5245e0b14aa9681ea3747a68d *R/rd-coffee_price.R
 316684cd5ff04660aa6f2ac80dd45b22 *R/rd-commodity_prices.R
 cfe2706d606bcb3355cf1ff1e4b79571 *R/rd-country_isocodes.R
 eb9f4fabb87395e91e49fa27474b129c *R/rd-eight_schools.R
 d947cf06bc6ef2cb69f8392044c736b9 *R/rd-election_turnout.R
-91d9cee056a937c1b6dbbb25cfec843b *R/rd-epl_odds.R
+d2c0e46cce7b715452f5c2f07ba9ca87 *R/rd-epl_odds.R
 15906404dc293dc0064466f9d17e90dd *R/rd-eq_passengercars.R
 f6472773f64485e56dd3615705bb9f1d *R/rd-eu_ua_fta24.R
 be5f04e06d78052268921f776d21a593 *R/rd-eurostate_codes.R
@@ -79,6 +79,7 @@ e7333b2ffa7b238bc564429d08efcb82 *R/rd-min_wage.R
 ef245e84200713f4817b33ace3c0a650 *R/rd-mmb_war.R
 77d95aff3d16fad7a12effe42bc07df2 *R/rd-mvprod.R
 fe430e04080dc3c88b1191ea1eeef70c *R/rd-nesarc_drinkspd.R
+c710b565bad6ac3e6c57c46171980c95 *R/rd-postcol_growth.R
 4a5115bd36dbb5dacbbb78c854ab453e *R/rd-pwt_sample.R
 14ef8f97b0a9284e2b7c7ce41013362d *R/rd-quartets.R
 abbb08e039045216df021fac9d7d93e1 *R/rd-recessions.R
@@ -112,7 +113,7 @@ b97293704e156560c853a426ef1a2713 *R/rd-wvs_usa_educat.R
 6e7e7f667a3ee273db0f6c8bd1daf51b *R/rd-wvs_usa_regions.R
 5922e46b83eca83d2ba21e7cf3d44264 *R/rd-yugo_sales.R
 ac68b388765bf2e1eeee539fe2c564b9 *README.md
-3b2be21cd46fa7ec76bd874644957494 *build/partial.rdb
+0afa9af1e5ce6e86868d229f87d04e4e *build/partial.rdb
 fc8e0c0e28b9e10c42b6e08a8baafd8f *data/AJR5.rda
 12da4c0501298d996dec8f9b7ee18e20 *data/Arca.rda
 528537b1455d4cc051e1eb4a7af7d38e *data/CFT15.rda
@@ -160,7 +161,7 @@ b76191b21cb36efeeb8b4a685ef12f55 *data/chile88.rda
 57aa21ff1dd19a2e3278bdec033e412c *data/china_peace.rda
 ecfe697e4935be25aeea39091ebba93f *data/clemson_temps.rda
 3e6a84acdd1c66cd667ac8e3ad353b4a *data/co2emissions.rda
-10b3f746a742df028f1f63f9e20dfe6a *data/coffee_imports.rda
+98365d5203dddfead6d1de9670ab4a4e *data/coffee_imports.rda
 11440bb26c517b3bcab5ceaf2b78af31 *data/coffee_price.rda
 f58405d0881044e77b02812e4cfcd713 *data/commodity_prices.rda
 d5f1e30c256a598d268c1f187f6c4a47 *data/country_isocodes.rda
@@ -191,6 +192,7 @@ fdc765e03f915004280dce14d5a21d16 *data/mm_nhis.rda
 69ba803623c9f337977fee0fbe0270e6 *data/mmb_war.rda
 dca9276bae95d9dea30f8e023908749b *data/mvprod.rda
 40c11938af10f6d7b2f48da4aa467b93 *data/nesarc_drinkspd.rda
+aee121901b000d61222f9b7df7672e50 *data/postcol_growth.rda
 87b1f105da4c377f69740f3d9e23c500 *data/pwt_sample.rda
 cf40003d81df7de5594da447a12da157 *data/quartets.rda
 7eb5751d2096e687cbe4aad505a61efc *data/recessions.rda
@@ -223,7 +225,7 @@ eb4b24a1abf63fd0845172d9d29ed59e *data/wvs_justifbribe.rda
 bdd700ec42383f4b6674b84cb4b27133 *data/wvs_usa_educat.rda
 1b73cec903dac359cf71b0b25c6b77e0 *data/wvs_usa_regions.rda
 752d9b72e2c89fc8227d16351562831e *data/yugo_sales.rda
-25cde83b5255ab14f7b36e0bf32f6673 *man/AJR5.Rd
+f7327ed5d4046b5e2194deb66d8d7d29 *man/AJR5.Rd
 c5baaa4cb7d2a3f813f10f4ef540f864 *man/Arca.Rd
 1027897d3af02222732dc41838edd467 *man/CFT15.Rd
 a91e3efbf991f0bd4135bbf79c7aef31 *man/CP77.Rd
@@ -270,13 +272,13 @@ d1a04944433c982b2ed7e93a4a1800cf *man/chile88.Rd
 2ae14cd2e4f0ef34a05e57c4224694d4 *man/china_peace.Rd
 fe93c9a49dc5d32ed6821b700de0f412 *man/clemson_temps.Rd
 a3e7e17a1e76a5409be4a564a7447706 *man/co2emissions.Rd
-06640536175af10ea10b86a1898ceff3 *man/coffee_imports.Rd
+232679c25d8f75db70ed23e41cf6be59 *man/coffee_imports.Rd
 268981161b23351e59f3bb55fe36d2ad *man/coffee_price.Rd
 497fb39bff1c376d2ee301b2fc99ded3 *man/commodity_prices.Rd
 bc87d739fa144199ee23d59f51f8e00d *man/country_isocodes.Rd
 90fe77bbda119f9572116d559b4a1afb *man/eight_schools.Rd
 9147c8928140ad9527a7bfd4995c85e2 *man/election_turnout.Rd
-b4a6b53a8fa9a379b676997797c8fbf4 *man/epl_odds.Rd
+1d20bd61fc6dfb47d2b49eef879ad6a3 *man/epl_odds.Rd
 95c59efd1e43b3469377d4cb9d36bc89 *man/eq_passengercars.Rd
 8b75b54de85faff0ac9ca4e3af89eb2e *man/eu_ua_fta24.Rd
 5fdadbae1e5b78f9848ad8dd1ff3778c *man/eurostat_codes.Rd
@@ -301,6 +303,7 @@ e34456a59bb1ffa9d5be4d9edf1f2ff2 *man/gss_abortion.Rd
 ac508faac6aae550d08ec3e3a3559cd2 *man/mmb_war.Rd
 684ada81980f24adaa2be1cb007faa00 *man/mvprod.Rd
 1f754e049c4adad44e25dd042de3a8ee *man/nesarc_drinkspd.Rd
+2dbba694eaafb23303eac8573d36f2e3 *man/postcol_growth.Rd
 9b5d0b7224593fd659b25544d1ea4716 *man/pwt_sample.Rd
 6f880f8048c16b7d98ee738249f756b2 *man/quartets.Rd
 15d11d2ac25cf2cc6e50ca327116838f *man/recessions.Rd
